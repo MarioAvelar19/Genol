@@ -1,2 +1,2 @@
 # Genol
-Documentación de la empres Genol 
+Documentación de la empresa Genol 
