@@ -1,0 +1,5 @@
+- Los datos deberan ser almacenados en uan base de datos de datos confiables.(SQL)
+- El sistema debe proporcionar mensajes de error que sean informativos.
+- El sistema no debe tardar en mostrar los resultados.
+- Debe ser de facíl comprension para su uso.
+- la interfaz tiene que ser atractiva y sencilla de usar.
