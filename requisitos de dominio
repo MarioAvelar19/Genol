@@ -1,12 +1,7 @@
 
-  - las principales funciones del sistema es la capacidad de comprar y vender onlinemente.
-  - navegar en la interfaz y la capacidad de entrar al perfil del vender
-  - atencion al cliente, para asegurar las acciones en nuestro servicio
-  - chequeo constante de verificacion de usuarios para asegurar la seguridad del servicio
-  - la habilidad de crear perfiles del comprador, exponiendo su infromacion empresarial
-  - el usuario puede navegar sin cuenta, sin poder hacer una accion.
-  - el usario para efectuar una accion sera obligado a insertar obligacion informacio clave 
-    y tener una cuenta de  fondo 
-  - el ingenerio en software, estara en constante evaluacion de las acciones y la fiabilidad que se
-    le da al cliente
-   - se contara con un centro de atencion 24/7, que ayudara todo el tiempo al correcto uso del sistema
+•	La función principal del sistema es poder realizar compras y ventas online.
+•	Se podrá navegar por la interfaz, así como por los perfiles de los usuarios.
+•	Atención al cliente para asegurar las compras/ventas dentro del software.
+•	Mantenimiento constante en la verificación de usuarios para asegurar la seguridad del servicio.
+•	El usuario común podrá navegar sin necesidad de estar registrado dentro de la base de datos.
+•	Para poder realizar una compra/venta será necesario estar registrado, así como la información de usuario completa.
