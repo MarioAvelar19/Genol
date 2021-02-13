@@ -1,7 +1,8 @@
-- Se permite el registro de clientes con datos no obligatorios incompeltos,
-en otro momento
-- El sistema debe permitir almacenas datos de clientes y proveedores
--Al realizar una venta o compra debe actualizar los inventarios
--El sistema emitira un comprobante(recibo) por correo, de la acción sea compra o venta.
--El usuario podra personalizar su perfil tanto en informacion,como en vista para darle un efecto
-mas propio a cada interfaz de compra
+•	Se permite el registro de clientes con datos no obligados incompletos (como detalles de facturación), los cuales se podrán completar en otro momento o al realizar la compra/venta.
+•	El sistema debe permitir almacenar datos de clientes y proveedores.
+•	Al realizar una venta o compra debe actualizar los inventarios con los nuevos números.
+•	El sistema emitirá un correo de que la compra/venta se ha realizado con éxito; en caso de ser requerido se podrá imprimir una factura.
+•	El usuario podrá personalizar su perfil tanto en información como agregar fotografía para así darle un efecto propio a cada perfil e interfaz de compra.
+•	Los datos deberán ser almacenados en una base de datos relacional.
+•	El sistema deberá arrojar mensajes de error en caso de cometerse; estos mensajes deben ser informativos y útiles para el usuario.
+•	Para evitar tiempos de espera largos se usarán procedimientos almacenados del lado del servidor.
